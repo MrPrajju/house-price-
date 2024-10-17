@@ -1,0 +1,1 @@
+The house price prediction AI project utilizes machine learning algorithms to analyze historical property data and market trends, providing accurate price forecasts for residential real estate. By incorporating various factors such as location, size, and economic indicators, it helps buyers and sellers make informed decisions.
